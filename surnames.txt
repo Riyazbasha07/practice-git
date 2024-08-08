@@ -1,3 +1,0 @@
-this is a file of surnames
-this is another line of the surnames.txt file
-
